@@ -27,20 +27,19 @@ Hi! Thanks for checking out my GitHub profile.I specialize in creating intuitive
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rusith-atapattu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rusith Atapattu LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/rusith-atapattu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: rusith-atapattu" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/rusithatapattu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Rusith Atapattu Kaggle" height="30" width="40" />
+  <a href="https://www.kaggle.com/rusithatapattu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle: rusithatapattu" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/____.rusith.____" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rusith Atapattu Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/____.rusith.____" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: ____.rusith.____" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/rusithatapattu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Rusith Atapattu HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/rusithatapattu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank: rusithatapattu" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
