@@ -14,7 +14,7 @@ Hi! Thanks for checking out my GitHub profile.I specialize in creating intuitive
 
 - 🌱 I’m currently learning **with collaborative UI/UX design platforms to create user-centered experiences.**
 
-- 👨‍💻 All of my projects are available at [[My Portfolio](http://127.0.0.1:5500/index.html](https://my-portfolio-9c1fa.web.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-9c1fa.web.app/)
 
 - 💬 Ask me about **Web Development, UI/UX**
 
