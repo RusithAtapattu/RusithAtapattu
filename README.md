@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rusith Atapattu </h1>
 <h3 align="center">
-  A passionate software engineering graduand with a love for UI/UX design <br>
-  “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+  A Software Engineering graduate focused on Quality Assurance and test automation, passionate about ensuring reliable, seamless, and user-centric digital experiences. <br>
+  “Quality is not an act, it is a habit.” – Aristotle
 </h3>
 
 
