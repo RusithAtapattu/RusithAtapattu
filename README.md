@@ -12,11 +12,11 @@
 Hi! Thanks for checking out my GitHub profile.I specialize in creating intuitive, user-focused designs and developing responsive, high-performance websites. My work combines creativity with functionality, ensuring that every digital product I design not only looks appealing but also delivers a seamless user experience. I have experience with modern design tools, front-end technologies, and usability best practices, enabling me to bridge the gap between design and development.
 
 
-- 🌱 I’m currently learning **with collaborative UI/UX design platforms to create user-centered experiences.**
+- 🌱 I’m currently **learning and working with modern testing and collaboration tools to improve software quality and user experience.**
 
 - 👨‍💻 All of my projects are available at <a href="https://my-portfolio-9c1fa.web.app/" target="_blank">My Portfolio</a>
 
-- 💬 Ask me about **Web Development, UI/UX**
+- 💬 Ask me about **Quality Assurance, Test Automation, Web Development, and UI/UX.**
 
 - 📫 How to reach me **rusithatapattu@gmail.com**
 
